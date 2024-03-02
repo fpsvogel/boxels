@@ -1,5 +1,8 @@
 # WIP platformer using only colored squares
 
+> [!NOTE]
+> This game is not yet fun to play. At this early stage I'm just messing around with DragonRuby.
+
 ## Play it on Itch.io
 
 [fpsvogel.itch.io/boxels](https://fpsvogel.itch.io/boxels)
